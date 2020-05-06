@@ -1,4 +1,6 @@
 # cordova-plugin-ionic-keyboard
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FMindSciences%2Fcordova-plugin-ionic-keyboard.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FMindSciences%2Fcordova-plugin-ionic-keyboard?ref=badge_shield)
+
 
 This plugin has been designed to work seamlessly with `cordova-plugin-ionic-webview`, so make sure you have it installed first:
 
@@ -218,3 +220,7 @@ window.addEventListener('keyboardWillHide', () => {
     // Describe your logic which will be run each time when keyboard is about to be closed.
 });
 ```
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FMindSciences%2Fcordova-plugin-ionic-keyboard.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FMindSciences%2Fcordova-plugin-ionic-keyboard?ref=badge_large)
